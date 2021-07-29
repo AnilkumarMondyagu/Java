@@ -45,7 +45,7 @@ class Student{
     }
 }  
 
-public class Main{
+public class Assignment12{
 
     public static void main(String[] args){
     
